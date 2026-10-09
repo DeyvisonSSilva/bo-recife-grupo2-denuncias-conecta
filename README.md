@@ -32,7 +32,7 @@ O **Painel Único de Denúncias** é um módulo integrado ao Conecta Recife que 
 ## Protótipo navegável (AV1)
 
 - **Ferramenta:** Figma
-- **Link:** [Protótipo navegável](https://www.figma.com/design/2mA6VnyXQidZMcTbvgkpsP/Coreto?node-id=0-1&t=nHQzZJgcv9IM7V9t-0)
+- **Link:** [Protótipo navegável](https://www.figma.com/proto/2mA6VnyXQidZMcTbvgkpsP/Coreto?node-id=25-333&p=f&t=XP3Gk7NSMfZbZDMH-0&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 **Jornada do usuário:**
 
